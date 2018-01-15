@@ -1,0 +1,19 @@
+SP.1
+
+Er opinn uppspretta af kerfi fyrir tölvur.
+Það er Linux dreifing byggt á Debian arkitekt. 
+Það er oftast sett í persónulegar tölvur en 
+er einnig frægt með netþjóna. 
+Það er hægt að keyra ubuntu á Intel 
+, AMD og ARM-vélum og er einnig hægt að fá sér það í símann. 
+
+SP. 2
+
+AÐALMUNUR:  Apache : er HTTP miðlari. Apache er vef miðlara umsókn
+búin til fyrir nútíma reksturskerfi eins og microsoft windows ,
+Netware , osfrv. Nginx er ókeypis opinn-uppspretta eins og Apache
+en er líka andstæða af proxy server og er léttur miðlari. 
+Þau eru einnig öðruvísi að öðrum þáttum en þetta eru aðalþættirnir 
+af því hvað er öðruvísi mill þeirra tveggja.
+
+SP. 3
