@@ -17,3 +17,25 @@ en er líka andstæða af proxy server og er léttur miðlari.
 af því hvað er öðruvísi mill þeirra tveggja.
 
 SP. 3
+a
+ * Common Gateway Interface (CGI) býður upp á staðlaða samskiptareglur fyrir
+   web servers til að framkvæma forrit sem keyra eins og Console application+
+b
+
+* mod_python er apache HTTP server module sem notar python programming túngumál við servers
+c
+
+* FastCGI is a binary protocol til að tengja gagnvirkt forri web server. FastCGI er afbrigði á 
+  fyrri Common Gateway Interface.The Simple Common Gateway Interface (SCGI) yrir forrit til að
+  tengja við HTTP servers
+d
+
+* mod_wsgi er Apache HTTP Server module by Graham Dumpleton sem veitir WSGI samhæft viðmót fyrir 
+  hýsingu web applications
+e
+
+* The Gunicorn "Green Unicorn" er Python Web Server Gateway Interface HTTP server.
+f
+
+* uWSGI is a software application sem "miðar  að því að þróa fullt stafla til að byggja upp
+  hosting services"
